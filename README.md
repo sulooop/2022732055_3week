@@ -85,3 +85,21 @@ I modified this README through a collaborator branch.
 - Method: Fork & Pull Request
 
 This contribution was created from a forked repository.
+
+
+## Collaborator Practice
+
+- Contributor: 이재형
+- Student ID: 2022732004
+- Role: Collaborator
+
+I modified this README through a collaborator branch.
+
+
+## Fork Practice
+
+- Contributor: 이재형
+- Student ID: 2022732004
+- Method: Fork & Pull Request
+
+This contribution was created from a forked repository.
